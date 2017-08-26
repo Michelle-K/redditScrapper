@@ -1,1 +1,1 @@
-# redditScrapper
+# scraper
